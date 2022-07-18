@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:health_tracer/screens/input_page.dart';
+import 'constants.dart';
 
 void main() {
   runApp(const MyApp());
